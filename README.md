@@ -1,7 +1,7 @@
 
 # Maze Game
 
-![App Screenshot]
+![App Screenshot](m.png)
 
 ## Introduction
 
